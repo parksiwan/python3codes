@@ -1,0 +1,7 @@
+{
+    "is_true":true,
+    "read_db":"mysql_managed_db",
+    "limit":21,
+    "dir":"/mnt/backup",
+    "new_key":5.009
+}

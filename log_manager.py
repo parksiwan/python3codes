@@ -1,8 +1,8 @@
 import abc
 from datetime import datetime
 
-
-class WriteFile(object):
+# abstract class : interface for subclass
+class WriteFile(object): # can't be instantiated
     __metaclass__ = abc.ABCMeta
 
     @abc.abstractmethod
