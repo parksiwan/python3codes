@@ -1,5 +1,6 @@
 """
 Find the largest Python source file in a single directory
+The specified directory will be searched unless argument is given
 """
 import os, glob, sys
 
